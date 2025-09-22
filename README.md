@@ -12,7 +12,6 @@ I’m a **Software Engineer** with expertise in **Django, FastAPI, Next.js and m
 - AWS Certified Solutions Architect – Associate (SAA)  
 
 ## 📫 Reach Me  
-- GitHub: [mohsin4li](https://github.com/mohsin4li)  
 - LinkedIn: [/in/mohsinali8](https://www.linkedin.com/in/mohsinali8/)
 - Email: [mohsinalisep@gmail.com](mailto:mohsinalisep@gmail.com)
 - Medium: [medium.com/@mohsin4li](https://medium.com/@mohsin4li) 
